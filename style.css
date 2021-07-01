@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('./fonts/Inter/Inter-variable-font.ttf');
+  font-weight: 400 700;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  --font-family-heading: Inter;
+}
