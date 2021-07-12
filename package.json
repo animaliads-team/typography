@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@animaliads/typography": "dev"
+    "@animaliads/typography": "1.1.0-dev.5"
   }
 }
